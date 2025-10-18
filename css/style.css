@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    background-color: white;
+   width: 80%;
+    margin: auto;
+    margin-top: 80px;
+    padding: 50px 0; 
+}
+fieldset{
+    width: 57vw;
+    margin: auto;
+    border-radius: 5px;
+}
+input{
+    border: none;
+    outline: none;
+    padding:15px 15px;
+}
+
+.submit{
+    background-color: blue; 
+    color: white;
+     width:57vw;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    margin: auto;
+    display: block;
+}
+h2{
+   margin: bottom 20px;
+   margin: auto;
+   width: 57vw;
+}
+legend{
+    margin: 0 10px;
+    padding: 0 5px;
+}
