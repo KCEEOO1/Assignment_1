@@ -72,14 +72,12 @@ td{
         height: 100vh; 
     }
     .right {
-        height:80vh;
         width:90% ;
         margin-bottom: 20px;
+        height: fit-content;
     }
     .middle{
         width: 80%;
-        height: 10vh;
-
     } 
     
     .left {
